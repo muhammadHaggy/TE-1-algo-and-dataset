@@ -1,0 +1,22 @@
+Testing RadixSorter:
+Sorted smallSorted. Execution time: 200084 nanoseconds. Memory used: 0 bytes.
+Sorted smallRandom. Execution time: 691042 nanoseconds. Memory used: 0 bytes.
+Sorted smallReversed. Execution time: 218458 nanoseconds. Memory used: 0 bytes.
+Sorted mediumSorted. Execution time: 898708 nanoseconds. Memory used: 160064 bytes.
+Sorted mediumRandom. Execution time: 1305375 nanoseconds. Memory used: 480192 bytes.
+Sorted mediumReversed. Execution time: 569292 nanoseconds. Memory used: 200080 bytes.
+Sorted largeSorted. Execution time: 3889500 nanoseconds. Memory used: 2056848 bytes.
+Sorted largeRandom. Execution time: 8596333 nanoseconds. Memory used: 6291456 bytes.
+Sorted largeReversed. Execution time: 3231667 nanoseconds. Memory used: 3145728 bytes.
+-------------------------
+Testing PeekSorter:
+Sorted smallSorted. Execution time: 21125 nanoseconds. Memory used: 0 bytes.
+Sorted smallRandom. Execution time: 514875 nanoseconds. Memory used: 0 bytes.
+Sorted smallReversed. Execution time: 26000 nanoseconds. Memory used: 0 bytes.
+Sorted mediumSorted. Execution time: 135375 nanoseconds. Memory used: 0 bytes.
+Sorted mediumRandom. Execution time: 1339542 nanoseconds. Memory used: 0 bytes.
+Sorted mediumReversed. Execution time: 41834 nanoseconds. Memory used: 40016 bytes.
+Sorted largeSorted. Execution time: 274458 nanoseconds. Memory used: 608544 bytes.
+Sorted largeRandom. Execution time: 10032459 nanoseconds. Memory used: 400016 bytes.
+Sorted largeReversed. Execution time: 325250 nanoseconds. Memory used: 400016 bytes.
+-------------------------
